@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    background-color:#22223B;
+}
+
+
+.navBar {
+    background-color: #4A4E69;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+}
+
+.title {
+    font-family: 'Open Sans', sans-serif;
+    color: #C9ADA7;
+    margin: 0px;
+}
+
+.actions {
+    font-family: 'Open Sans', sans-serif;
+    color: #C9ADA7;
+    width: 69px;
+    font-size: 10px;
+    margin: 0px;
+    border: 0px;
+    padding: 10px;
+}
